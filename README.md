@@ -1,3 +1,5 @@
-# Hello, my name is Albert
+# Albert Navas
 
-### Software Developer & Site Reliability Engineer
+### Software Developer && Site Reliability Engineer
+
+https://www.linkedin.com/in/albertnavasmallo/
